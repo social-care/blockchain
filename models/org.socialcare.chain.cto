@@ -1,0 +1,7 @@
+namespace org.socialcare.chain
+
+transaction OccurrencesTransaction {
+  o String userId
+  o String occurrenceTimestamp
+  o String occurrenceReference
+}
